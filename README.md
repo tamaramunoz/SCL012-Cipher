@@ -39,36 +39,46 @@ Algunas ideas de ejemplo:
 
 En este proyecto aprenderás a construir una aplicación web que interactúe con el usuario a través del navegador y la lógica basada en esa interacción. Dicho en palabras sencillas, aprenderás a:
 
-### UX
+#### UX
 - Entender las **necesidades del usuario** y realizar propuestas para esas necesidades. 
 
-### HTML y CSS
+#### HTML y CSS
 - Mostrar elementos de formulario en la pantalla.
 
-### DOM
+#### DOM
 - Permitir al usuario interactuar (**eventos del DOM**) y hacer algo cuando ocurran dichos eventos (cifrar/descifrar).
 - Actualizar la pantalla con los resultados (**manipular el DOM**).
 
-### JS
+#### JS
 - Manipular _**strings**_ (cadenas de texto).
 - Usar **control de flujo** (bucles, condicionales, ...).
 - **Implementar funciones** dada una descripción de su comportamiento.
 
-### TESTING
+### Testing
 - Verificar tu implementación con **pruebas unitarias**.
 
-### GIT Y GITHUB
+### Git y Github
 - Comandos de git (add | commit | pull | status | push).
 - Manejo de repositorios de GitHub (clone | fork | gh-pages).Manejo de repositorios de GitHub (clone | fork | gh-pages).
 
-### BUENAS PACTICAS
+### Buenas Pràcticas
 - Organizar tu tiempo y priorizar tareas en un entorno de **alta incertidumbre**.
 
-## Consideraciones.
+### Consideraciones.
 
 Usa este alfabeto simple (solamente mayúsculas y sin ñ):
 
 - A B C D E F G H I J K L M N O P Q R S T U V W X Y Z
+
+### Sotf Skills o Habilidades Blandas
+- **Planificación, organización y manejo del tiempo** : Organizarse de manera general, haciendo una estimación aproximada de los tiempos que se necesitarán para la realización del proyecto. Conocer las ceremonias y artefactos ágiles (sprint planning, dailys, retrospectiva, tablero al menos, etc) a pesar de que no se utilicen con regularidad.
+- **Autoaprendizaje** : Demostrar interés y adquirir nuevos conocimientos autónomamente, estudiando de manera independiente, lo que se traduce, en que cuando es necesario, la estudiante buscará aclarar conceptos y resolver dudas sobre la materia.
+- **Presentaciones** : Utilizar ciertas estrategias para hablar en público (tono y ritmo de voz adecuado, contacto visual con el público, interacción con medios de presentación), que permitan asegurar un mediano entendimiento de la audiencia.
+- **Adaptabilidad** : Afrontar los cambios inesperados o nuevos desafíos con una actitud positiva, aunque no necesariamente se logre accionar o adaptarse de la mejor manera a los diferentes contextos.
+- **Solución de problemas** : Trabajar en la búsqueda y en la elaboración de soluciones alternativas a problemas de mediana complejidad.
+- **Responsabilidad** : Demostrar actitud de compromiso, reflejandolo en la entrega de trabajo a tiempo, llegando a la hora acordada y/o avisando cuando no se pueda asistir.
+- **Dar y recibir feedback** : Escuchar los comentarios y críticas de los demás de manera respetuosa, y/o comunicar a los demás las opiniones de forma constructiva.
+- **Comunicación eficaz** : Comunicar ideas a los demás cuando es necesario, aunque no siempre se fomenten de manera proactiva estas instancias de comunicación.
 
 #### Definición del producto
 
