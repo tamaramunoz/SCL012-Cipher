@@ -10,13 +10,17 @@ Luego en el área de _Código Interno_ ingresar una clave en **"Ingresa clave"**
 ![Caja Clave](imag/cajaClave.png)
 
 y finalmente presionar el boton **"Codificar"** 
+
 ![Boton Cifrar](imag/botonCodificar.png) 
+
 para obtener el texto cifrado en la segunda caja de texto de nombre **"Resultado"**.
 
 ![Caja Resultado](imag/cajaResultado.png)
 
 Para poder descifrar un mensaje es el mismo procedimiento, pero con la diferencia de que importante es saber de antemano el **"Código Interno"** ya que gracias a este número podrás obtener con exito el texto descifrado presionando el boton **"Decodificar"**,
+
 ![Boton Descifrar](imag/botonDecodificar.png)
+
 donde el mensaje ya decifrado aparecera nuevamente en la caja de **"Resultado"**.
 
 
