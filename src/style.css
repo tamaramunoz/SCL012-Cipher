@@ -1,1 +1,89 @@
-/* Acá va tu código */
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background: #bdc3c7;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+
+.logotipo {
+    padding: 20px;
+}
+
+header nav p {
+    padding: 10px;
+    background: #2c3e50;
+    color: #ffffff;
+    overflow: hidden;
+    font-size: 14px;
+    display: inline-block;
+}
+
+form {
+    width: 30%;
+    max-width: 100%;
+    border: 1px solid #273c75;
+    margin: 20px;
+    padding: 20px;
+    color: #40739e;
+    display: inline-block;
+}
+
+label {
+    font-size: 16px;
+    display: block;
+    width: 100%;
+    margin-bottom: 1%;
+}
+
+input, textarea {
+    margin-bottom: 20px;
+    width: 100%;
+    padding: 10px;
+    box-sizing: border-box;
+    border: 1px solid #aaa69d;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #2c3e50;
+}
+
+textarea {
+    resize: vertical;
+    max-height: 300px;
+    min-height: 100px;
+}
+
+input:focus, textarea:focus {
+    border: 1px solid #30336b;
+}
+
+input[type="button"] {
+    margin-bottom: 0;
+    background: #2c3e50;
+    color: #ffffff;
+    border: none;
+    margin-bottom: 2%;
+    border-radius: 20px;
+}
+
+input[type="button"]:hover {
+    background: #596275;
+    cursor: pointer;
+}
+
+.limpiar {
+    padding: 10px;
+    margin-bottom: 0;
+    background: #546de5;
+    color: #ffffff;
+    margin-top: 5%;
+    border: none;
+    border-radius: 10px;
+}
+
+.limpiar:hover {
+    background: #778beb;
+    cursor: pointer;
+}

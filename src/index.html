@@ -6,9 +6,36 @@
     <link rel="stylesheet" href="style.css" />
   </head>
   <body>
-    <div id="root">
-      <h1>Hola mundo!</h1>
-    </div>
+      <header>
+        <div class="logotipo">
+          <img src="imagenes/cipher.png" width="200" alt="logotipo cipher">
+        </div>
+        <nav>
+          <p>
+            Cipher, la web de cifrado para profesionales del periodismo
+          </p>
+        </nav>
+      </header>
+      
+      <section>
+        <form action="" name="formulario">
+          <label for="mensaje">Mensaje:</label>
+          <textarea name="mensaje" id="texto" placeholder="Escribe tu mensaje"></textarea>
+      
+          <label for="desplazamiento">Código Interno:</label>
+          <input type="number" id="offset" placeholder="Ingresa clave">
+
+          <label for="done">Resultado:</label>
+          <textarea name="done" id="resultado" placeholder="Resultado"></textarea>
+      
+          <input type="button" value="Codificar" id="codificar">
+        
+          <input type="button" value="Decodificar" id="decodificar">
+      
+          <button class="limpiar" onclick="clean();">Limpiar</button>
+        </form>
+      </section>
+       
     <script src="cipher.js"></script>
     <script src="index.js"></script>
   </body>
